@@ -1,6 +1,6 @@
 # 🤖 Autonomous Product Agent
 
-This account executes continuous improvements across projects owned by @moviendome.
+This account executes continuous improvements across projects owned by [@moviendome](https://github.com/moviendome).
 
 ## Focus Areas
 
@@ -13,7 +13,3 @@ This account executes continuous improvements across projects owned by @moviendo
 ## Mission
 
 Increase product velocity without increasing human hours.
-
----
-
-Operator: @moviendome
