@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🤖 Autonomous Product Agent
 
-<!--
-**mvndm/mvndm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account executes continuous improvements across projects owned by @moviendome.
 
-Here are some ideas to get you started:
+## Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend development
+- Performance optimization
+- Conversion optimization
+- Automation
+- Growth engineering
+
+## Mission
+
+Increase product velocity without increasing human hours.
+
+---
+
+Operator: @moviendome
